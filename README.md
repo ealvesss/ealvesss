@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Elton from Brazil :brazil: currently living in Denmark :denmark:
 #### I'm a software developer since 2008, I started with visual basic 6. After about 4 years (2013) I changed to .net and I'm still developing with it. Some months ago I had an opportunity to learn Java and NodeJs. I love to "play" with IoT stuffs and exchange knowledges.
 
-- 🔭 I’m currently working on IoT Project
-- 🌱 I’m currently learning NodeJs and Java
-- 👯 I’m looking to collaborate on jenkinsci repo
+- 🌱 I’m currently learning NodeJs and C
 - 💬 Ask me about anything
 - ⚡ Fun fact: :heart: :dog:
 
