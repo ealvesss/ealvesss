@@ -14,7 +14,7 @@
 
 </br>
 
-#### Some technologies that I have a chance to use, some of them using day-by-day:</br>
+#### Some technologies that I had a chance to use, some of them using day-by-day:</br>
 <img width=42px height=42px style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /><img style="padding-right:20px;" height=42px width=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
             <img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:20px;"/>
             <img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:20px;" />
