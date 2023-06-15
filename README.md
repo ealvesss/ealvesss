@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Elton from Brazil :brazil: currently living in Denmark :denmark:
+### Hi there 👋, I'm Elton from Brazil :brazil: currently living in Aarhus, Denmark :denmark:
 #### I'm a software developer since 2008, I started with visual basic 6. After about 4 years (2013) I changed to .net and I'm still developing with it. Some months ago I had an opportunity to learn Java and NodeJs. I love to "play" with IoT stuffs and exchange knowledges.
 
 - 🌱 I’m currently learning NodeJs and C
