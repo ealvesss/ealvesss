@@ -10,6 +10,7 @@
 - [flipper-zero-repo](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/pull/658) 💌
 - [Jenkins](https://github.com/jenkinsci/windows-slave-installer-module/pull/17) 🌱 
 - [Jenkins](https://github.com/jenkinsci/jenkins/pull/7229) 🌱
+- [Azure Docs](https://github.com/MicrosoftDocs/azure-docs/pull/3613) 📚
 
 
 #### Connect with me:
