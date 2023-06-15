@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Elton from Brazil :brazil: currently living in Aarhus, Denmark :denmark:
-#### I'm a software developer since 2008, I started with visual basic 6. After about 4 years (2012) I changed to .net and I'm still developing with it. Some months ago I had an opportunity to learn Java and NodeJs. I love to "play" with IoT stuffs and exchange knowledges.
+### Hi there 👋, I'm Elton from Brazil :brazil:. I'm currently living in Aarhus, Denmark :denmark:
+#### I'm a software developer since 2008, I started with visual basic 6. After about 4 years (2012) I changed to .net and some time ago I started to develop in NodeJS. I did some things in Java also, but just for fun 😄. I really like to to "play" with IoT and embedded devices, some days ago I started to learn C to try to make some development in Rogue FW to Flipper Zero Device 🐬. Another cool stuff about me: I love to exchange experiences and knowledges. 📖
 
-- 🌱 I’m currently learning NodeJs and C
+- 🌱 I’m currently improving my knowledges.
 - 💬 Ask me about anything
 - ⚡ Fun fact: :heart: :dog:
 
@@ -13,7 +13,7 @@
 
 
 #### Connect with me:
-<a href="https://www.linkedin.com/in/elton-alvess/"><img height=38px width=38px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a><a href="https://twitter.com/ecalvesss"><img height=38px width=38px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a><a href="https://stackoverflow.com/users/2494218/ditao"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ditao" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elton-alvess/"><img height=38px width=38px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a><a href="https://twitter.com/ecalvesss"><img height=38px width=38px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a><a href="https://stackoverflow.com/users/2494218/ditao"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ealvesss" height="30" width="40" /></a>
 
 </br>
 
