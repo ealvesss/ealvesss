@@ -6,7 +6,7 @@
 - ⚡ Fun fact: :heart: :dog:
 
 
-### PullRests in Open Source Projects
+### Pull Requests in Open Source Projects
 - [flipper-zero-repo](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/pull/658) :love_letter:
 - [Jenkins](https://github.com/jenkinsci/windows-slave-installer-module/pull/17) :seedling: 
 
