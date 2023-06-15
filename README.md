@@ -6,7 +6,7 @@
 - ⚡ Fun fact: :heart: :dog:
 
 #### Connect with me:
-<a href="https://www.linkedin.com/in/ealvesss/"><img height=38px width=38px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a><a href="https://twitter.com/ecalvesss"><img height=38px width=38px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a><a href="https://stackoverflow.com/users/2494218/ditao"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ditao" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elton-alvess/"><img height=38px width=38px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a><a href="https://twitter.com/ecalvesss"><img height=38px width=38px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a><a href="https://stackoverflow.com/users/2494218/ditao"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ditao" height="30" width="40" /></a>
 
 </br>
 
