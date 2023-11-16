@@ -23,16 +23,12 @@
 </br>
 
 #### Some technologies that I had a chance to use, some of them using day-by-day:</br>
-<img width=42px height=42px style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /><img style="padding-right:20px;" height=42px width=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-            <img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:20px;"/>
-            <img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:20px;" />
-            <img widht=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:20px;"/>
-            <img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:20px;"/>
-            <img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding-right:20px;" />
-            <img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /> 
-            <img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;"/>
-            <img width=42px height=42px src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />
-            <img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:20px;"/>
-            <img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:20px;"/>
-            <img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" style="padding-right: 20px;"/>
-            <img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+<img width=42px height=42px style="padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img style="padding-right:20px;" height=42px width=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:20px;" />
+<img widht=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:20px;"/>
+<img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;"/>
+<img width=42px height=42px src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />
+<img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:20px;"/>
+<img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="padding-right:20px;"/>
+<img width=42px height=42px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
